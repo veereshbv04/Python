@@ -1,2 +1,2 @@
 # Python
-This contains contents related to Python
+This contains projects made using  Python and Various python Modules
