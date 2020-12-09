@@ -66,4 +66,11 @@ w = weatherData['list']
 print('Current weather in %s:' % (location))
 
 
+# Current weather in San Francisco, CA:
+# Clear - sky is clear
+ 
+# Tomorrow:
+# Clouds - few clouds
 
+Day after tomorrow:
+Clear - sky is clear
