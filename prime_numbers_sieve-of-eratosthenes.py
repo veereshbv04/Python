@@ -1,4 +1,5 @@
 # complexity is BIG O(NloglogN)
+# to find prime numbers upto "n"
 
 def sieveOfEratosthenes(n):
     prime=[ True for i in range(n+1)]
