@@ -1,2 +1,2 @@
 # Python
-This contains projects made using  Python and Various python Modules
+This repository contains projects/scripts made using  Python and Various Python Modules
